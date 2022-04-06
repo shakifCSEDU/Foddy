@@ -1,4 +1,4 @@
-package com.example.foody;
+package com.example.foody.ui.fragments.foodjoke;
 
 import android.os.Bundle;
 
@@ -7,6 +7,8 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.example.foody.R;
 
 
 public class FoodJokeFragment extends Fragment {
